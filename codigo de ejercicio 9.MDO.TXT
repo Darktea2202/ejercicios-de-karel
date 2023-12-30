@@ -1,0 +1,11 @@
+iniciar-programa
+    inicia-ejecucion
+    avanza;
+    repetir 3 veces gira-izquierda;
+    repetir 5 veces avanza;
+    gira-izquierda;
+    repetir 3 veces avanza;
+    coge-zumbador;
+        apagate;
+    termina-ejecucion
+finalizar-programa
